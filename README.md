@@ -1,4 +1,4 @@
-# Social media analytics
+# Social media sentiments analytics
 
 ## project overview
 
